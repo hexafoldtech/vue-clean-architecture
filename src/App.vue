@@ -1,6 +1,6 @@
 <template>
   <LoginPage></LoginPage>
-  <Footer msg="Welcome to Your Vue.js App"/>
+  <Footer/>
 </template>
 
 <script>
